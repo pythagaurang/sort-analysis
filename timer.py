@@ -20,7 +20,7 @@ lognsorts=[merge_sort,quick_high_sort,radix_sort]
 nsqrsorts=[insertion_sort,bubble_sort,selection_sort]
 
 #select the sorts that you want to analyse
-sorts=[merge_sort,insertion_sort]
+sorts=allsorts_c
 #change min_r,max_r to see how it effects counting sort
 min_r=0
 max_r=100000
